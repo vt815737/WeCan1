@@ -1,0 +1,174 @@
+body{
+    text-align: center;
+}
+
+.top-container{
+  background-color: rgb( 38,63,91 );
+    padding: 50px 0 20px;
+    color: #EAF6F6;
+      
+}
+
+.topbar{
+    background-color: rgb(8, 8, 45);
+    height: 70px;
+}
+.col{
+    margin-bottom: 20px;
+}
+.mobile{
+     padding-bottom: 100px;
+     margin-top: 15px;
+}
+
+
+.whatsapp{
+  margin-top: 15px;
+}
+
+.gmail{
+  margin-top: 20px;
+}
+.downbar{
+    height: 200px;
+    width: 1720px;
+    background-color: rgb(18, 18, 59);
+}
+.copyright{
+    color: #EAF6F6;
+    font-size: 0.75rem;
+    padding: 20px 0;
+  }
+  .bottom-container{
+    background-color: rgb(33 37 41);
+    padding: 50px 0 20px;
+  }
+
+  a{
+    color: #ecf5f5;
+    font-family: 'Montserrat' , sans-serif;
+   margin: 10px 20px;
+   text-decoration: none;
+  }
+
+  /* .navbar{
+    background-color: #000000;
+  } */
+
+  .text-theme-font{
+    font-family: 'Rock-salt' , cursive;
+  }
+
+  .navbar-fixed-top{
+    position: fixed;
+    right: 0;
+    left: 0;
+    z-index: 1030;
+  }
+
+  .img-responsive{
+    display: block;
+    max-width: 100%;
+    height: auto;
+  }
+
+.effect-bubba figcaption a {
+    text-decoration: none;
+    color: #ffcb00;
+    text-shadow: 1px 1px #000000;
+}
+
+  a{
+    background-color: transparent;
+  }
+
+  figure {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 40px;
+    margin-inline-end: 40px;
+    unicode-bidi: isolate;
+}
+
+
+
+.text-center {
+  text-align: center;
+}
+
+.bgimage {
+  background: url(whyjoinus2.jpg);
+  padding: 60px 0;
+  position: relative;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.font-yellow {
+  color: #ffcb00;
+}
+
+.font-white {
+  color: #ffffff;
+}
+
+p {
+  display: block;
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+  unicode-bidi: isolate;
+}
+
+.hovereffect {
+  width: 100%;
+  height: 100%;
+  float: left;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  cursor: default;
+  margin-bottom: 15px;
+}
+
+.social_icon {
+  width: 84px;
+  height: 84px;
+  display: inline-block;
+  padding: 10px;
+}
+
+.navbar{
+  
+ 
+    top: 0;
+    z-index: 100;
+    position: fixed;
+    width: 100%;
+ 
+}
+
+.upper-list .upper-strip ul li i {
+  color: #ffcb00;
+  font-size: 18px;
+  padding-right: 10px;
+}
+
+.fa {
+  display: inline-block;
+  font: normal normal normal 14px / 1 FontAwesome;
+  font-size: inherit;
+  text-rendering: auto;
+  /* -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;*/
+} 
+
+
+
+
+
+
